@@ -1,7 +1,11 @@
 
 <div align="center" width="50">
-<div>
-  <h1>👋 Hey, I'm Mohamed</h1>
+<!-- 👨‍💻 Main Intro Section -->
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  
+  <!-- النص -->
+  <div style="flex: 1; text-align: left;">
+    <h1>👋 Hey, I'm Mohamed</h1>
     <p>
       I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
       clean and responsive web experiences. <br><br>
@@ -9,8 +13,14 @@
       🚀 Always excited to learn, build, and bring creative UI/UX to life. <br>
       💡 I believe programming is not just about code, but about solving problems and making an impact. 
     </p>
-    <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="80%"/>
-  
+  </div>
+
+  <!-- الصورة -->
+  <div>
+    <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
+         alt="Coding" width="80%"/>
+  </div>
+
 </div>
 
 
