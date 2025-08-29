@@ -31,9 +31,7 @@
 <a href="https://nextjs.org/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
 </a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-</a>
+
 <a href="https://flutter.dev" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 </a>
@@ -57,6 +55,9 @@
 </a>
 
 <!-- Tools & Design -->
+<a href="https://www.npmjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+</a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>
