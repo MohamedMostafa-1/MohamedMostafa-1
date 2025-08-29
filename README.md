@@ -157,11 +157,11 @@ class About extends Me {
 <hr/>
 
 <!-- 🚀 Summary -->
-<p align="center">
+<!--<p align="center">
   ⭐ Always learning & building with <b>JavaScript, React, and Next.js</b> <br>
   ⚡ Passionate about <b>creative UI & problem solving</b> <br>
   🚀 Currently leveling up my skills with <b>npm & modern web tech</b>
-</p>
+</p> -->
 
 <!-- 🎭 Emojis -->
 <div align="center">
