@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <!-- Main GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlxdjhmY2trbXdjdTR0bHZjZndpaDVidTF4aWcxbm1zdnA1NGJ4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" alt="Coding" width="60%"/><br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2NTZmZDAwemMzcHZyOWZjdTVqc2NpcDA4YTFnaDcwcHVyMzBhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="60%"/><br>
 
 ---
 
