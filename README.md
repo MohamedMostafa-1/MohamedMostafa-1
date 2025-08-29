@@ -2,10 +2,10 @@
 <div align="center" width="50">
 
 <!-- Main GIF -->
-<div  style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+
   
   <!-- النص -->
-  <div style="flex: 1;">
+  <div align="left" style="flex: 1;">
     <h1>👋 Hey, I'm Mohamed</h1>
     <p>
       I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
@@ -22,7 +22,7 @@
          alt="Coding" width="80%"/>
   </div>
 
-</div>
+
 
 
 ---
@@ -170,10 +170,10 @@ class About extends Me {
 ⚡ Passionate about **creative UI & problem solving**  
 🚀 Currently leveling up my skills with **npm & modern web tech**  
 
-**Code Cycle**<br>
 
 <!-- Passion & Problem-Solving Mindset -->
 <div align="center">
+   **Code Cycle**<br>
   
   <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
