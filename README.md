@@ -1,7 +1,28 @@
 <div align="center" width="50">
 
 <!-- Main GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV2NTZmZDAwemMzcHZyOWZjdTVqc2NpcDA4YTFnaDcwcHVyMzBhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="60%"/><br>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  
+  <!-- النص -->
+  <div style="flex: 1;">
+    <h1>👋 Hey, I'm Mohamed</h1>
+    <p>
+      I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
+      clean and responsive web experiences. <br><br>
+      🌱 Currently improving my skills with <strong>React, Next.js, and modern web tools</strong>. <br>
+      🚀 Always excited to learn, build, and bring creative UI/UX to life. <br>
+      💡 I believe programming is not just about code, but about solving problems and making an impact. 
+    </p>
+  </div>
+
+  <!-- الصورة -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
+         alt="Coding" width="80%"/>
+  </div>
+
+</div>
+
 
 ---
 
@@ -122,7 +143,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Front-End, Creative UI, or Problem Solving**.<br>
 <!--  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me on Telegram: **[Taraki](https://t.me/yourusername)**<br> -->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every bug I fix gives me **+1 XP** ⚡<br>
-
+<!---------------------
 ---
 <div align="center" >
 <a href="https://github.com/Taraki">
@@ -139,7 +160,7 @@ class About extends Me {
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
-  
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <hr></hr>
 ⭐ Always learning & building with **JavaScript, React, and Next.js**  
 ⚡ Passionate about **creative UI & problem solving**  
