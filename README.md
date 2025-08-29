@@ -1,7 +1,7 @@
 
 <div align="center" width="50">
-
- <h1>👋 Hey, I'm Mohamed</h1>
+<div>
+  <h1>👋 Hey, I'm Mohamed</h1>
     <p>
       I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
       clean and responsive web experiences. <br><br>
@@ -11,6 +11,8 @@
     </p>
     <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="80%"/>
   
+</div>
+
 
 
     
