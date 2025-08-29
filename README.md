@@ -16,8 +16,8 @@
   </div>
 
   <!-- الصورة -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
+  <div >
+    <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
          alt="Coding" width="80%"/>
   </div>
 
@@ -136,7 +136,7 @@ class About extends Me {
 
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;  I’m currently learning **React, Next.js & Web Development**. 
-<!--<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br> -->
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br> 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **JavaScript, npm, and new libraries**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Front-End, Creative UI, or Problem Solving**.<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every bug I fix gives me **+1 XP** ⚡<br>
@@ -161,11 +161,12 @@ class About extends Me {
 
 </details>
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
 <hr></hr>
 ⭐ Always learning & building with **JavaScript, React, and Next.js**  
 ⚡ Passionate about **creative UI & problem solving**  
 🚀 Currently leveling up my skills with **npm & modern web tech**  
-
 
 
 **Code Cycle**<br>
@@ -180,6 +181,6 @@ class About extends Me {
 
 
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>          
