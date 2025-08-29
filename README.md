@@ -115,16 +115,17 @@ class About extends Me {
 
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
+<!--
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **React, Next.js & Web Development**. <img align="right" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" alt="Rocket" width="15%" /><br>
+-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **JavaScript, npm, and new libraries**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Front-End, Creative UI, or Problem Solving**.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me on Telegram: **[Taraki](https://t.me/yourusername)**<br>
+<!--  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me on Telegram: **[Taraki](https://t.me/yourusername)**<br> -->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every bug I fix gives me **+1 XP** ⚡<br>
 
-
+---
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a href="https://github.com/Taraki">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -133,13 +134,18 @@ class About extends Me {
 </a>
 
 <details>
-  <summary>More stats</summary>
+  <summary>📊 More about my GitHub journey</summary>
   
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
   
 <hr></hr>
+⭐ Always learning & building with **JavaScript, React, and Next.js**  
+⚡ Passionate about **creative UI & problem solving**  
+🚀 Currently leveling up my skills with **npm & modern web tech**  
+
+
 
 **Code Cycle**<br>
 
