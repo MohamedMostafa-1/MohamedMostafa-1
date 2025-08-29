@@ -17,7 +17,7 @@
   </div>
 
   <!-- الصورة -->
-  <div align="right" style="flex: 1; text-align: right;">
+  <div align="right" width="15%" >
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
          alt="Coding" width="80%"/>
   </div>
