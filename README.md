@@ -5,22 +5,25 @@
 
   
   <!-- النص -->
-  <div align="left" style="flex: 1;">
-    <h1>👋 Hey, I'm Mohamed</h1>
-    <p>
-      I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
-      clean and responsive web experiences. <br><br>
-      🌱 Currently improving my skills with <strong>React, Next.js, and modern web tools</strong>. <br>
-      🚀 Always excited to learn, build, and bring creative UI/UX to life. <br>
-      💡 I believe programming is not just about code, but about solving problems and making an impact. 
-    </p>
-  </div>
+ <table>
+  <tr>
+    <td width="60%" align="left">
+      <h1>👋 Hey, I'm Mohamed</h1>
+      <p>
+        I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
+        clean and responsive web experiences. <br><br>
+        🌱 Currently improving my skills with <strong>React, Next.js, and modern web tools</strong>. <br>
+        🚀 Always excited to learn, build, and bring creative UI/UX to life. <br>
+        💡 I believe programming is not just about code, but about solving problems and making an impact. 
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
+           alt="Coding" width="90%"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- الصورة -->
-  <div align="right" width="15%" >
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
-         alt="Coding" width="80%"/>
-  </div>
 
 
 
