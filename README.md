@@ -7,7 +7,7 @@
   <!-- النص -->
  <table>
   <tr>
-    <td width="60%" align="left">
+    <td width="50%"  align="left">
       <h1>👋 Hey, I'm Mohamed</h1>
       <p>
         I'm a passionate <strong>Front-End Developer</strong> who loves turning ideas into 
@@ -17,7 +17,7 @@
         💡 I believe programming is not just about code, but about solving problems and making an impact. 
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
            alt="Coding" width="90%"/>
     </td>
