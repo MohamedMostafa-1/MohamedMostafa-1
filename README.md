@@ -3,7 +3,7 @@
 <!-- Header GIF & About Me -->
 <table width="100%">
   <tr>
-    <td width="50%" align="left">
+    <td width="60%" align="left">
       <h1>👋 Hey, I'm Mohamed Mostafa</h1>
       <p>
          👋 Hi, I’m **Mohamed Mostafa**, a Front-End Engineer.<br>
@@ -14,7 +14,7 @@
       🎯 Goal: Join an excellent company to grow, contribute & create impact.<br>
       </p>
     </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
  alt="Coding" width="90%"/>
     </td>
@@ -73,11 +73,13 @@ class About extends Me {
 
 ---
 
+
+# ✨ Thanks for visiting my profile! 🤍
 <!-- Full Width GIF Banner -->
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21idTNqeThjZjhiYmpvYnhvMWVvdGJpOHR2cWk5N2s5bWJyMGlvciZlcD12MV9nbWV0aW5nX2lkZW50aWZpZXImY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" 
        alt="Full Width GIF" 
        style="width:100%; max-width:1000px; height:auto; display:block; margin:auto;" />
-</div>
+</div> -->
 
 
