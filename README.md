@@ -14,7 +14,7 @@
         🎯 <b>Goal:</b> To work in an excellent software company where I can grow, contribute, and create impactful solutions.
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="60%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4aDhoYTJvbWd6dm8yeDI4dm00NHgzc3IzNXQxaTFvbmtxNHhpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" 
            alt="Coding" width="90%"/>
     </td>
@@ -58,16 +58,18 @@
 
 ```dart
 // tools_I_use organized for Mohamed Mostafa 🚀
- class About extends Me {
-     const myTools = {
-        "Languages" : { "TypeScript", "JavaScript", "HTML", "CSS" },
+
+class About extends Me { 
+  const myTools = {  
+       "Languages" : { "TypeScript", "JavaScript", "HTML", "CSS" },
         "Frameworks" : { "Next.js","Redux Toolkit", "React", "TailwindCSS", "MUI", "Bootstrap" },
         "Animation_3D" : { "GSAP", "Three.js" }, "Database" : { "Firebase", "SQLite" },
         "Editors" : { "VS Code", "Windsurf", "visual studio code" },
          "OtherTools" : { "Git", "Figma" }
-     };
+  };
 }
 ```
+
 
 <hr>
 
