@@ -34,23 +34,16 @@
   <tr>
     <td align="center">
       <b>📊 GitHub Stats</b><br>
-      ![](https://github-readme-stats.vercel.app/api?username=MohamedMostafa-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
-      ![](https://nirzak-streak-stats.vercel.app/?user=MohamedMostafa-1&theme=dark&hide_border=true)<br>
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMostafa-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+     ![](https://github-readme-stats.vercel.app/api?username=MohamedMostafa-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MohamedMostafa-1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMostafa-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
     </td>
-    <td align="center">
-      <b>🏆 GitHub Trophies</b><br>
-      ![](https://github-profile-trophy.vercel.app/?username=MohamedMostafa-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-    </td>
-    <td align="center">
-      <b>🔝 Top Contributed Repo</b><br>
-      ![](https://github-contributor-stats.vercel.app/api?username=MohamedMostafa-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-    </td>
+
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <b>✍️ Random Dev Quote</b><br>
-      ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+      ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     </td>
   </tr>
 </table>
