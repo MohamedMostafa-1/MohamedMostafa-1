@@ -78,7 +78,7 @@ class About extends Me {
 ---
 <br/>
 <div align="center" width="100%">
-# ✨ Thanks for visiting my profile! 🤍
+<h1>✨ Thanks for visiting my profile! 🤍</h1>
 </div>
 
 <!-- Full Width GIF Banner -->
