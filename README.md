@@ -76,6 +76,18 @@ class About extends Me {
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammed2-006x&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMostafa-1&theme=tokyo-night&hide_border=true" />
+</p>
+
 <br/>
 <div align="center" width="100%">
 <h1>✨ Thanks for visiting my profile! 🤍</h1>
